@@ -1,0 +1,7 @@
+.gitignore 
+
+txt
+
+node_modules/ 
+.next/
+*.env
