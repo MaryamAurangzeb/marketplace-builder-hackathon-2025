@@ -1,8 +1,11 @@
 Add Self-Validation Checklist
+
 Create a folder named docs in the project directory:
+
 bash
-Copy code
+
 mkdir docs
+
 Download the PDF file from the link or create a markdown version of it:
 Save the PDF in the docs folder.
 Or create a SELF_VALIDATION_CHECKLIST.md file and summarize the checklist in markdown format.
