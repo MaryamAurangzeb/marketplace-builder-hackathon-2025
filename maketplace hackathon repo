@@ -1,0 +1,92 @@
+# Marketplace Builder Hackathon 2025
+
+This repository is for the **Marketplace Builder Hackathon 2025**. It includes a project structure, a self-validation checklist, and resources to help participants succeed in the hackathon.
+
+---
+
+## Project Overview
+
+The Marketplace Builder Hackathon is an exciting opportunity to develop a functional and responsive marketplace application. This repository provides a starting point for participants, with boilerplate code and guidelines to streamline the development process.
+
+### Features:
+- Responsive UI design using Next.js
+- Product listing and filtering functionalities
+- User authentication and profile management
+- Backend integration for dynamic content
+
+---
+
+## Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (version 14 or above)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- A GitHub account
+
+### Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd marketplace-builder-hackathon-2025
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+   The application will be available at `http://localhost:3000`.
+
+---
+
+## File Structure
+```
+.
+├── docs
+│   └── SELF_VALIDATION_CHECKLIST.md  # Checklist for hackathon tasks
+├── pages
+│   ├── index.js                     # Homepage
+│   └── ...                          # Other Next.js pages
+├── public
+│   └── ...                          # Public assets (images, etc.)
+├── styles
+│   └── globals.css                  # Global CSS styles
+├── .gitignore                       # Ignored files and folders
+├── LICENSE                          # Project license
+├── README.md                        # Project README
+└── package.json                     # Dependencies and scripts
+```
+
+---
+
+## Hackathon Checklist
+A detailed checklist to validate your progress during the hackathon can be found in [SELF_VALIDATION_CHECKLIST.md](./docs/SELF_VALIDATION_CHECKLIST.md).
+
+---
+
+## Contributing
+Contributions are welcome! Follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push to your fork.
+4. Open a pull request.
+
+---
+
+## License
+This repository is licensed under the MIT License. See `LICENSE` for details.
+
+---
+
+
+Project Overview: Hackathon ka introduction aur features.
+Getting Started: Setup instructions for local environment.
+File Structure: Project ke folders aur files ka overview.
+Checklist Link: Hackathon progress validate karne ke liye ek dedicated checklist ka reference.
+Contributing: Collaboration aur pull request ke rules.
+License: Project ka license (MIT).
+
