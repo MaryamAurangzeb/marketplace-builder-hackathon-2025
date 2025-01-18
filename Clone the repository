@@ -1,0 +1,6 @@
+Clone the repository:
+
+bash
+Copy code
+git clone <repository-url>
+cd <repository-name>
