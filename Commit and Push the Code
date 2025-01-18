@@ -1,0 +1,7 @@
+Commit and Push the Code
+Add the files to the repository:
+bash
+Copy code
+git add .
+git commit -m "Initial commit for Marketplace Builder Hackathon 2025"
+git push origin main
