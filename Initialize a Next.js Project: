@@ -1,0 +1,7 @@
+Initialize a Next.js Project:
+
+bash
+Copy code
+npx create-next-app@latest .
+Follow the prompts to set up your Next.js project.
+
